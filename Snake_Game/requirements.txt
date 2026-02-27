@@ -1,0 +1,4 @@
+# Snake Game Requirements
+# Turtle is included in Python standard library, but listing here for completeness
+# No external dependencies required for basic gameplay
+
