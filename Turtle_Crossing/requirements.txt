@@ -1,0 +1,4 @@
+# Turtle Crossing Game - Requirements
+# The turtle module is part of the Python standard library
+# No external dependencies required for this project
+
